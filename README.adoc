@@ -1,0 +1,3 @@
+It is simple iOS application to view https://developer.nytimes.com/apis[New York Times archive] by months
+
+
